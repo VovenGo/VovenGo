@@ -64,4 +64,4 @@
 
 - Email: bazalt32.vladimir@gmail.com
 - Telegram: https://t.me/vladeimier
-- Локация: Санкт-Петербург / Москва / Remote
+- Локация: Санкт-Петербург / Remote
